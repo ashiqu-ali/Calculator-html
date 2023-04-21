@@ -1,0 +1,10 @@
+.calc{
+    width: 400px;
+    height: 600px;
+    background-color: gray;
+    margin-left: 400px;
+}
+.output{
+    width: 80%;
+    margin-left: 36px;
+}
